@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timsort_runs input="entrada_media_reversa.txt" runs="5">
+  <run index="1">
+    <time_seconds>11.612611</time_seconds>
+    <memory_avg_kb>236.27</memory_avg_kb>
+    <memory_peak_kb>11738.26</memory_peak_kb>
+  </run>
+  <run index="2">
+    <time_seconds>11.930575</time_seconds>
+    <memory_avg_kb>241.13</memory_avg_kb>
+    <memory_peak_kb>11735.59</memory_peak_kb>
+  </run>
+  <run index="3">
+    <time_seconds>12.385342</time_seconds>
+    <memory_avg_kb>227.97</memory_avg_kb>
+    <memory_peak_kb>11735.20</memory_peak_kb>
+  </run>
+  <run index="4">
+    <time_seconds>12.292665</time_seconds>
+    <memory_avg_kb>228.10</memory_avg_kb>
+    <memory_peak_kb>11735.47</memory_peak_kb>
+  </run>
+  <run index="5">
+    <time_seconds>11.411186</time_seconds>
+    <memory_avg_kb>228.72</memory_avg_kb>
+    <memory_peak_kb>11734.46</memory_peak_kb>
+  </run>
+</timsort_runs>

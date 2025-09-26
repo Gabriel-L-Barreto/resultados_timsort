@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timsort_runs input="entrada_pequena_ordenada.txt" runs="5">
+  <run index="1">
+    <time_seconds>0.045282</time_seconds>
+    <memory_avg_kb>64.50</memory_avg_kb>
+    <memory_peak_kb>190.56</memory_peak_kb>
+  </run>
+  <run index="2">
+    <time_seconds>0.099803</time_seconds>
+    <memory_avg_kb>38.54</memory_avg_kb>
+    <memory_peak_kb>188.05</memory_peak_kb>
+  </run>
+  <run index="3">
+    <time_seconds>0.105302</time_seconds>
+    <memory_avg_kb>39.52</memory_avg_kb>
+    <memory_peak_kb>187.33</memory_peak_kb>
+  </run>
+  <run index="4">
+    <time_seconds>0.096262</time_seconds>
+    <memory_avg_kb>45.15</memory_avg_kb>
+    <memory_peak_kb>187.84</memory_peak_kb>
+  </run>
+  <run index="5">
+    <time_seconds>0.109737</time_seconds>
+    <memory_avg_kb>22.62</memory_avg_kb>
+    <memory_peak_kb>187.33</memory_peak_kb>
+  </run>
+</timsort_runs>
